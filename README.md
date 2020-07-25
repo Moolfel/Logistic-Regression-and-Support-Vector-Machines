@@ -1,1 +1,3 @@
-# Logistic-Regression-and-Support-Vector-Machines
+
+
+## Application of  Logistic Regression,Support Vector Machines on Loan_Data
